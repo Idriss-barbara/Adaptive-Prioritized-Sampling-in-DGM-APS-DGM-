@@ -1,5 +1,5 @@
-**Prioritized Sampling for Scalable Neural Network Solutions to Complex Partial Differential Equations
-Overview**
+******Prioritized Sampling for Scalable Neural Network Solutions to Complex Partial Differential Equations
+Overview******
 
 This repository provides the official Python implementation of the method proposed in the article:
 
